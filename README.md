@@ -47,7 +47,7 @@ _ps: aqui constam todos os projetos que foram realizados na origamid._ :running:
 
 ## :postbox: Entrega
 
-### Tabela dos exercícios :clipboard:
+#### Tabela dos cursos :clipboard:
 
 |                                                 | curso                       | descrição                                                                                                                      | respositório |   projet   |
 | :---------------------------------------------: | :-------------------------- | :----------------------------------------------------------------------------------------------------------------------------- | :----------: | :--------: |
