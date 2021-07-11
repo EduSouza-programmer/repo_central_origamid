@@ -51,7 +51,7 @@ Em 2018 conheci o canal no youtube fantastíco do André Rafael fundador da orig
 
 |                                                 | curso                       | descrição                                                                                                                      | respositório |   projet   |
 | :---------------------------------------------: | :-------------------------- | :----------------------------------------------------------------------------------------------------------------------------- | :----------: | :--------: |
-|  <img src="./assets/leao.svg" height="100px" />  | Web Design Completo         | Este curso é para quem deseja entrar ou já está no mercado de criação de websites.                                             |   [Link]()   | _[Page]()_ |
+|  <img src="./assets/leao.svg" height="200px" />  | Web Design Completo         | Este curso é para quem deseja entrar ou já está no mercado de criação de websites.                                             |   [Link]()   | _[Page]()_ |
 | <img src="./assets/cervo.svg" height="50px" />  | CSS Avançado posicionamento | O foco é passar de maneira exaustiva os fundamentos das propriedades e como elas agem no layout do site.                       |   [Link]()   | _[Page]()_ |
 | <img src="./assets/ovelha.svg" height="50px" /> | CSS FlexBox                 | No curso de CSS Flexbox você irá aprender como criar um layout responsivo no CSS utilizando apenas as propriedades do Flexbox. |   [Link]()   | _[Page]()_ |
 |  <img src="./assets/gato.svg" height="50px" />  | CSS Grid Layout             | No curso de CSS Grid Layout você irá aprender como criar um layout responsivo.                                                 |   [Link]()   | _[Page]()_ |
