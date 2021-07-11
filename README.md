@@ -43,7 +43,7 @@ Em 2018 conheci o canal no youtube fantastíco do André Rafael fundador da orig
 - Uma coletanea de cursos que realizei na origamid;
 - Tabela com os projetos realizados dos cursos, com o link do repositório referente;
 
-**_PS: aqui constam todos os projetos que foram realizados na origamid._** :running:
+_ps: aqui constam todos os projetos que foram realizados na origamid._ :running:
 
 ## :postbox: Entrega
 
@@ -57,9 +57,9 @@ Em 2018 conheci o canal no youtube fantastíco do André Rafael fundador da orig
 |  <img src="./assets/gato.svg" width="200px" />  | CSS Grid Layout             | No curso de CSS Grid Layout você irá aprender como criar um layout responsivo.                                                 |   [Link]()   | _[Page]()_ |
 | <img src="./assets/abelha.svg" width="200px" /> | CSS com SASS                | No curso de CSS com SASS você irá aprender como criar variáveis, mixins, funções, loops e outras funcionalidades.              |   [Link]()   | _[Page]()_ |
 
-_PS: A tabela acima será sempre atualizada conforme vou realizando outros cursos o/._ :smile:
+_ps: A tabela acima será sempre atualizada conforme vou realizando outros cursos o/._ :smile:
 
-### Considerações
+#### Considerações finais
 
 Foi muito enriquecedor, de um diferencial enorme e abrangente, sobretudo na aprendizagem em CSS, os cursos da origamid são top! Um execelente trabalho de ensino com experiência, método e dicas do André Rafael. Indico a todos o seu treinamento, seja para um iniciante ou já intermediário em web developer.
 
