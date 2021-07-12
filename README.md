@@ -27,12 +27,12 @@
 </p>
 
 <p align="center">
-  <a href="#rocket-Sobre-o-Portfólio">Sobre o curso</a>&nbsp; &nbsp; |&nbsp; &nbsp; 
+  <a href="#rocket-Sobre-os-Portfólio">Sobre os cursos</a>&nbsp; &nbsp; |&nbsp; &nbsp; 
   <a href="#postbox-Entrega"">Entrega</a>&nbsp; &nbsp; |&nbsp; &nbsp; 
   <a href="#unlock-Licença">Licença</a>
 </p>
 
-## :rocket: Sobre o curso
+## :rocket: Sobre os cursos
 
 #### Meu aprendizando na origamid!
 
@@ -53,7 +53,7 @@ _ps: aqui constam todos os projetos que foram realizados na origamid._ :running:
 | :---------------------------------------------: | :-------------------------- | :----------------------------------------------------------------------------------------------------------------------------- | :----------: | :--------: |
 |  <img src="./assets/leao.svg" width="200px" />  | Web Design Completo         | Este curso é para quem deseja entrar ou já está no mercado de criação de websites.                                             |   [Link](https://github.com/EduSouza-programmer/web_design_completo-origamid)   | _[Page](https://edusouza-programmer.github.io/web_design_completo-origamid/)_ |
 | <img src="./assets/cervo.svg" width="200px" />  | CSS Avançado posicionamento | O foco é passar de maneira exaustiva os fundamentos das propriedades e como elas agem no layout do site.                       |   [Link](https://github.com/EduSouza-programmer/css_avancado-origamid)   | _[Page](https://edusouza-programmer.github.io/css_avancado-origamid/)_ |
-| <img src="./assets/ovelha.svg" width="200px" /> | CSS FlexBox                 | No curso de CSS Flexbox você irá aprender como criar um layout responsivo no CSS utilizando apenas as propriedades do Flexbox. |   [Link]()   | _[Page]()_ |
+| <img src="./assets/ovelha.svg" width="200px" /> | CSS FlexBox                 | No curso de CSS Flexbox você irá aprender como criar um layout responsivo no CSS utilizando apenas as propriedades do Flexbox. |   [Link](https://github.com/EduSouza-programmer/css_flexbox-origamid#postbox-Entrega)   | _[Page](https://edusouza-programmer.github.io/css_flexbox-origamid/)_ |
 |  <img src="./assets/gato.svg" width="200px" />  | CSS Grid Layout             | No curso de CSS Grid Layout você irá aprender como criar um layout responsivo.                                                 |   [Link]()   | _[Page]()_ |
 | <img src="./assets/abelha.svg" width="200px" /> | CSS com SASS                | No curso de CSS com SASS você irá aprender como criar variáveis, mixins, funções, loops e outras funcionalidades.              |   [Link]()   | _[Page]()_ |
 
