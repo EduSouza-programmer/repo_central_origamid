@@ -1,6 +1,6 @@
-<h1 align="center">
+<p align="center">
   <img align="center" alt="Imagem trybe" src="https://www.origamid.com/projetos/og-origamid.png" width="400px" />
-</h1>
+</p>
 
 <h3 align="center">
   Cursos realizados na origamid - Edu Souza o/
@@ -31,6 +31,8 @@
   <a href="#postbox-Entrega"">Entrega</a>&nbsp; &nbsp; |&nbsp; &nbsp; 
   <a href="#unlock-Licença">Licença</a>
 </p>
+
+<br/>
 
 ## :rocket: Sobre os cursos
 
