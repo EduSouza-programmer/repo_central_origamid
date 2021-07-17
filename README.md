@@ -41,7 +41,7 @@ Em 2018 conheci o canal no youtube fantastíco do André Rafael fundador da orig
 #### Abaixo você vai encontrar:
 
 - Uma coletanea de cursos que realizei na origamid;
-- Tabela com os projetos realizados dos cursos, com o link do repositório referente;
+- Tabela com os projetos realizados nos cursos, com o link do repositório referente;
 
 _ps: aqui constam todos os projetos que foram realizados na origamid._ :running:
 
