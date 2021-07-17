@@ -69,7 +69,7 @@ _ps: A tabela acima será sempre atualizada conforme vou realizando outros curso
 
 Foi muito enriquecedor, de um diferencial enorme e abrangente, sobretudo na aprendizagem em CSS, os cursos da origamid são top! Um execelente trabalho de ensino com experiência, método e dicas do André Rafael. Indico a todos o seu treinamento, seja para um iniciante ou já intermediário em web developer.
 
-#
+<br/>
 
 ## :unlock: Licença
 
