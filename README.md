@@ -47,6 +47,8 @@ Em 2018 conheci o canal no youtube fantastíco do André Rafael fundador da orig
 
 _ps: aqui constam todos os projetos que foram realizados na origamid._ :running:
 
+<br/>
+
 ## :postbox: Entrega
 
 #### Tabela dos cursos :clipboard:
@@ -60,6 +62,8 @@ _ps: aqui constam todos os projetos que foram realizados na origamid._ :running:
 | <img src="./assets/abelha.svg" width="200px" /> | CSS com SASS                | No curso de CSS com SASS você irá aprender como criar variáveis, mixins, funções, loops e outras funcionalidades.              |    [Link](https://github.com/EduSouza-programmer/css_com_sass-origamid)     |    _[Page](https://edusouza-programmer.github.io/css_com_sass-origamid/)_     |
 
 _ps: A tabela acima será sempre atualizada conforme vou realizando outros cursos o/._ :smile:
+
+<br/>
 
 #### Considerações finais
 
